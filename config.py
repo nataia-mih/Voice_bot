@@ -3,7 +3,7 @@ import os
 
 class Config:
     # Telegram Bot Configuration
-    TELEGRAM_BOT_TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN', '8100499435:AAGZOjFHcdhNyKBdF86tgzZND5SgdJGZkXg')
+    TELEGRAM_BOT_TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN', 'your-telegram-token')
     
     # LM Studio API Configuration
     LMSTUDIO_API_URL = os.environ.get('LMSTUDIO_API_URL', 'http://localhost:1234/v1/chat/completions')
