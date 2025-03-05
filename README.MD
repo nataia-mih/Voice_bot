@@ -1,4 +1,4 @@
-# LM Studio Telegram Bot
+# Voice_Bot
 
 ## Prerequisites
 - Python 3.8+
@@ -9,8 +9,8 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/telegram-lm-studio-bot.git
-cd telegram-lm-studio-bot
+git clone https://github.com/nataia-mih/Voice_bot.git
+cd Voice_bot
 ```
 
 2. Create a virtual environment:
